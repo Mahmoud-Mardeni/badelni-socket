@@ -20,7 +20,7 @@
 	"devMode": true,
 	"host": "badelni-socket.herokuapp.com",
 	"port": "6001",
-	"protocol": "https",
+	"protocol": "http",
 	"socketio": {},
 	"sslCertPath": "",
 	"sslKeyPath": "",
