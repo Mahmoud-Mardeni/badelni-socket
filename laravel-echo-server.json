@@ -19,7 +19,7 @@
 	},
 	"devMode": true,
 	"host": null,
-	"port": "6001",
+	"port": "{$PORT}",
 	"protocol": "http",
 	"socketio": {},
 	"sslCertPath": "",

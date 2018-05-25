@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pm2 start echo.json",
-    "preinstall": "npm i -g pm2 && pm2 install pm2-logrotate"
+    "start": "laravel-echo-server start"
   },
   "author": "",
   "license": "ISC",
