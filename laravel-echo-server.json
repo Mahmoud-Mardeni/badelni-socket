@@ -18,9 +18,9 @@
 		}
 	},
 	"devMode": true,
-	"host": null,
-	"port": "{$PORT}",
-	"protocol": "http",
+	"host": "badelni-socket.herokuapp.com",
+	"port": "6001",
+	"protocol": "https",
 	"socketio": {},
 	"sslCertPath": "",
 	"sslKeyPath": "",
